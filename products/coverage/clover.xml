@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1679010577116" clover="3.2.0">
-  <project timestamp="1679010577117" name="All files">
-    <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="15" coveredelements="12" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+<coverage generated="1679010979222" clover="3.2.0">
+  <project timestamp="1679010979222" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="12" coveredelements="12" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
     <file name="app.js" path="C:\Users\loreto.lopez.p\Documents\Lore\Diplomado DevOps\06-Monitoreo\clase 04\taller\products\src\app.js">
       <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="6" count="2" type="stmt"/>
@@ -14,11 +14,6 @@
       <line num="18" count="1" type="stmt"/>
       <line num="19" count="1" type="stmt"/>
       <line num="23" count="1" type="stmt"/>
-    </file>
-    <file name="server.js" path="C:\Users\loreto.lopez.p\Documents\Lore\Diplomado DevOps\06-Monitoreo\clase 04\taller\products\src\server.js">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="3" count="0" type="stmt"/>
-      <line num="4" count="0" type="stmt"/>
     </file>
   </project>
 </coverage>
